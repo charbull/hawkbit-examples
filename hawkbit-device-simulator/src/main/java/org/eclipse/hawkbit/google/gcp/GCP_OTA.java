@@ -21,7 +21,7 @@ public class GCP_OTA {
 	
 	public final static String SUBSCRIPTION_STATE_ID = "state";
 	public final static String SUBSCRIPTION_FW_STATE = "fw-state";
-	public final static String SUBSCRIPTION_FW_DEVICE_ID = "deviceId";
+	public final static String DEVICE_ID = "deviceId";
 	
 	
 	public final static String FIRESTORE_DEVICES_COLLECTION = "devices";
