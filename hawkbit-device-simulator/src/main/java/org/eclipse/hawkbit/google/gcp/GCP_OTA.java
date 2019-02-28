@@ -14,6 +14,11 @@ public class GCP_OTA {
 	public final static String REGISTRY_NAME = "tradfri";
 	public final static String BUCKET_NAME = "ikea-homesmart-workshop.appspot.com"; //TODO:
 	
+	public final static String FW_MSG_RECEIVED = "msg-received";
+	public final static String FW_INSTALLING = "installing";
+	public final static String FW_DOWNLOADING = "downloading";
+	public final static String FW_INSTALLED = "installed";
+	
 	public final static String SUBSCRIPTION_STATE_ID = "state";
 	public final static String SUBSCRIPTION_FW_STATE = "fw-state";
 	public final static String SUBSCRIPTION_FW_DEVICE_ID = "deviceId";
